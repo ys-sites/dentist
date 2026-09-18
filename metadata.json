@@ -1,0 +1,10 @@
+{
+  "name": "Westside Dentist",
+  "description": "Westside Dentist is a modern dental clinic offering gentle, expert care, from preventive checkups and cosmetic dentistry to restorative treatments and orthodontics. Book your visit today.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
